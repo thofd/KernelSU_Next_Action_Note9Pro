@@ -1,8 +1,5 @@
 name: Build kernel by clang-r383902b
 on:
-  watch:
-    types: [started]
-
   workflow_dispatch:
 
 jobs:
